@@ -1,0 +1,67 @@
+{
+  "numero": "d8166cfc-d16e-448b-97bc-6c6c6768cbc0",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 11
+  },
+  "estado": "Reprobada",
+  "curso": {
+    "titulo": "Fundamentos de Programación",
+    "costo": 120.0,
+    "descripcion": "Algoritmos"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de robótica"
+    ],
+    "cedula": "12469855",
+    "nombre": "JOSE",
+    "apellido": "SANCHEZ"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 20
+      },
+      "valor": 7.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 26
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 31
+      },
+      "valor": 15.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 12.0
+}

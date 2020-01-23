@@ -1,0 +1,69 @@
+{
+  "numero": "f5e6b1e2-4a57-40d0-b71d-d333c999aa36",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 47
+  },
+  "estado": "Reprobada",
+  "curso": {
+    "titulo": "Fundamentos de Programación",
+    "costo": 120.0,
+    "descripcion": "Algoritmos"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de música",
+      "Club de fútbol",
+      "Club de tenis"
+    ],
+    "cedula": "1587963212",
+    "nombre": "KAREN LIZBETH",
+    "apellido": "CACERES BENITEZ"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 50,
+        "second": 21
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 50,
+        "second": 37
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 58,
+        "second": 6
+      },
+      "valor": 0.3,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.433333
+}

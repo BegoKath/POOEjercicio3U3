@@ -1,0 +1,67 @@
+{
+  "numero": "d10a73f5-c3fe-42f7-9fa4-2e1e644aca7a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 39
+  },
+  "estado": "Aprobada",
+  "curso": {
+    "titulo": "Programación móvil básica",
+    "costo": 250.0,
+    "descripcion": "Android"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de música"
+    ],
+    "cedula": "12654784578",
+    "nombre": "ANA GABRIEL",
+    "apellido": "HIDALGO NAVARRETE"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 15
+      },
+      "valor": 19.77,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 24
+      },
+      "valor": 13.56,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 32
+      },
+      "valor": 11.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.776668
+}

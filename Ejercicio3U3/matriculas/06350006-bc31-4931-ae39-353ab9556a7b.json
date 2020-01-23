@@ -1,0 +1,67 @@
+{
+  "numero": "06350006-bc31-4931-ae39-353ab9556a7b",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 4
+  },
+  "estado": "Aprobada",
+  "curso": {
+    "titulo": "Programación web",
+    "costo": 370.0,
+    "descripcion": "PHP Laravel"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de danza",
+      "Club de robótica",
+      "Club de software"
+    ],
+    "cedula": "13654785",
+    "nombre": "THALIA",
+    "apellido": "TORRES"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 3
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 10
+      },
+      "valor": 19.5,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 18
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 19.833334
+}

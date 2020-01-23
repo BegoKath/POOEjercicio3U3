@@ -1,0 +1,116 @@
+[
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de robótica",
+      "Club de tenis"
+    ],
+    "cedula": "1727673848",
+    "nombre": "KATHERINE MISHELL",
+    "apellido": "CARDENAS NAVARRETE"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de música",
+      "Club de fútbol",
+      "Club de tenis"
+    ],
+    "cedula": "1587963212",
+    "nombre": "KAREN LIZBETH",
+    "apellido": "CACERES BENITEZ"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de robótica",
+      "Club de software"
+    ],
+    "cedula": "1236547",
+    "nombre": "JOSS",
+    "apellido": "GARCIA"
+  },
+  {
+    "carrera": "Ingeniería Automotriz",
+    "clubes": [
+      "Club de artes plásticas",
+      "Club de música",
+      "Club de robótica",
+      "Club de fútbol"
+    ],
+    "cedula": "12365478",
+    "nombre": "MATEO ANDRES",
+    "apellido": "PUENTE"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de danza",
+      "Club de robótica",
+      "Club de software"
+    ],
+    "cedula": "13654785",
+    "nombre": "THALIA",
+    "apellido": "TORRES"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de robótica"
+    ],
+    "cedula": "12469855",
+    "nombre": "JOSE",
+    "apellido": "SANCHEZ"
+  },
+  {
+    "carrera": "Ingeniería Automotriz",
+    "clubes": [
+      "Club de danza",
+      "Club de robótica"
+    ],
+    "cedula": "126785422",
+    "nombre": "JHOJAN",
+    "apellido": "ROSERO"
+  },
+  {
+    "carrera": "Ingeniería Aeronautica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de artes plásticas",
+      "Club de música",
+      "Club de robótica",
+      "Club de tenis"
+    ],
+    "cedula": "12365478",
+    "nombre": "BRYAN",
+    "apellido": "SANDOVAL"
+  },
+  {
+    "carrera": "Ingeniería Aeronautica",
+    "clubes": [
+      "Club de danza",
+      "Club de robótica",
+      "Club de software"
+    ],
+    "cedula": "123657844",
+    "nombre": "ELIAN",
+    "apellido": "ZAMBRANO"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de música"
+    ],
+    "cedula": "12654784578",
+    "nombre": "ANA GABRIEL",
+    "apellido": "HIDALGO NAVARRETE"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "numero": "47c221b1-f898-4d9a-b4a7-0564d1a9682b",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 33
+  },
+  "estado": "Aprobada",
+  "curso": {
+    "titulo": "Progración Orientada a Objetos",
+    "costo": 170.0,
+    "descripcion": "Clases y Objetos"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería Aeronautica",
+    "clubes": [
+      "Club de danza",
+      "Club de robótica",
+      "Club de software"
+    ],
+    "cedula": "123657844",
+    "nombre": "ELIAN",
+    "apellido": "ZAMBRANO"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 52
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 59
+      },
+      "valor": 17.8,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 0,
+        "second": 8
+      },
+      "valor": 16.5,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.433332
+}

@@ -1,0 +1,67 @@
+{
+  "numero": "da631455-34b6-4fa2-b0a8-dd3c1c2b71c6",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 55,
+    "second": 52
+  },
+  "estado": "Aprobada",
+  "curso": {
+    "titulo": "Programación móvil básica",
+    "costo": 250.0,
+    "descripcion": "Android"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de robótica",
+      "Club de software"
+    ],
+    "cedula": "1236547",
+    "nombre": "JOSS",
+    "apellido": "GARCIA"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 49
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 59
+      },
+      "valor": 15.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 8,
+        "second": 5
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.666666
+}

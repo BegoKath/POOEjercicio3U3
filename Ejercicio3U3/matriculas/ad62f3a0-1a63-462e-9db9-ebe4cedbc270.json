@@ -1,0 +1,66 @@
+{
+  "numero": "ad62f3a0-1a63-462e-9db9-ebe4cedbc270",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 19
+  },
+  "estado": "Reprobada",
+  "curso": {
+    "titulo": "Fundamentos de Programación",
+    "costo": 120.0,
+    "descripcion": "Algoritmos"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería Automotriz",
+    "clubes": [
+      "Club de danza",
+      "Club de robótica"
+    ],
+    "cedula": "126785422",
+    "nombre": "JHOJAN",
+    "apellido": "ROSERO"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 40
+      },
+      "valor": 5.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 5
+      },
+      "valor": 16.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 17
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.666667
+}

@@ -1,0 +1,67 @@
+{
+  "numero": "4b7046e6-cbda-4dfc-ae29-81191220df45",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 34,
+    "second": 56
+  },
+  "estado": "Aprobada",
+  "curso": {
+    "titulo": "Progración Orientada a Objetos",
+    "costo": 170.0,
+    "descripcion": "Clases y Objetos"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de robótica",
+      "Club de tenis"
+    ],
+    "cedula": "1727673848",
+    "nombre": "KATHERINE MISHELL",
+    "apellido": "CARDENAS NAVARRETE"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 43,
+        "second": 32
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 43,
+        "second": 40
+      },
+      "valor": 16.2,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 43,
+        "second": 46
+      },
+      "valor": 18.2,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.466667
+}

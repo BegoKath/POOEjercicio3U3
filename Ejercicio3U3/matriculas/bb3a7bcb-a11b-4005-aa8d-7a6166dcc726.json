@@ -1,0 +1,69 @@
+{
+  "numero": "bb3a7bcb-a11b-4005-aa8d-7a6166dcc726",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 26
+  },
+  "estado": "Aprobada",
+  "curso": {
+    "titulo": "Programación móvil básica",
+    "costo": 250.0,
+    "descripcion": "Android"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería Aeronautica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de artes plásticas",
+      "Club de música",
+      "Club de robótica",
+      "Club de tenis"
+    ],
+    "cedula": "12365478",
+    "nombre": "BRYAN",
+    "apellido": "SANDOVAL"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 34
+      },
+      "valor": 16.55,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 42
+      },
+      "valor": 18.27,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 51
+      },
+      "valor": 13.33,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.050001
+}

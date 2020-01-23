@@ -1,0 +1,68 @@
+{
+  "numero": "b9a93030-2b94-41e3-8c27-7f1055fb7354",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 55,
+    "second": 59
+  },
+  "estado": "Aprobada",
+  "curso": {
+    "titulo": "Programación móvil avanzada",
+    "costo": 600.0,
+    "descripcion": "Android \u0026 iOS"
+  },
+  "estudiante": {
+    "carrera": "Ingeniería Automotriz",
+    "clubes": [
+      "Club de artes plásticas",
+      "Club de música",
+      "Club de robótica",
+      "Club de fútbol"
+    ],
+    "cedula": "12365478",
+    "nombre": "MATEO ANDRES",
+    "apellido": "PUENTE"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 54
+      },
+      "valor": 12.5,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 3
+      },
+      "valor": 17.64,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 11
+      },
+      "valor": 14.66,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.933333
+}
