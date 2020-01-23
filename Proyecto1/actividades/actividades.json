@@ -1,0 +1,27 @@
+[
+{
+"titulo":"Fundamentos de Programación",
+"costo":"120.0",
+"descripcion": "Algoritmos"
+},
+{
+"titulo":"Progración Orientada a Objetos",
+"costo":"170.0",
+"descripcion":"Clases y Objetos"
+},
+{
+"titulo": "Programación móvil básica",
+"costo": " 250.0",
+"descripcion": "Android"
+},
+{
+"titulo": "Programación móvil avanzada",
+"costo": " 600.0",
+"descripcion": "Android & iOS"
+},
+{
+"titulo": "Programación web",
+"costo": "370.0",
+"descripcion": "PHP Laravel"
+}
+]
